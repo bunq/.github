@@ -8,7 +8,7 @@ At bunq, we believe banking should work for you — not the other way around. Th
 
 ## 🧠 Highlights
 
-- **Open API** – Seamlessly integrate with our powerful [bunq API](https://doc.bunq.com).
+- **API Documentation** – All that you need to know to start building with our powerful [bunq API](https://doc.bunq.com).
 - **SDKs** – Official SDKs for Python, PHP, Java, and C# to help you get started fast.
 - **Webhooks** – Get real-time updates for events like payments and card transactions.
 - **OAuth** – Secure third-party integrations for building financial apps with bunq.
