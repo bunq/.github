@@ -27,7 +27,6 @@ At bunq, we believe banking should work for you — not the other way around. Th
 | [bunq/sdk_php](https://github.com/bunq/sdk_php) | ⚠️ Legacy PHP SDK (unmaintained) |
 | [bunq/sdk_java](https://github.com/bunq/sdk_java) | ⚠️ Legacy Java SDK (unmaintained) |
 | [bunq/sdk_csharp](https://github.com/bunq/sdk_csharp) | ⚠️ Legacy C# SDK (unmaintained) |
-| [bunq/tinker_php](https://github.com/bunq/tinker_php) | CLI tool to tinker with the bunq API using PHP |
 | [bunq/postman_collection](https://github.com/bunq/postman) | A Postman collection to test the bunq API |
 
 ## 🧪 Get Started
