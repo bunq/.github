@@ -15,15 +15,20 @@ At bunq, we believe banking should work for you — not the other way around. Th
 - **Sandbox Environment** – Test everything safely with our fully-featured sandbox.
 
 ## 📦 Key Repositories
+> [!TIP]
+> **New to the bunq API?**  
+> The easiest way to get started is by importing our Postman collection and making your first requests without writing any code.
+> 
+> 👉 [https://github.com/bunq/postman](https://github.com/bunq/postman)
 
 | Repo | Description |
 |------|-------------|
-| [bunq/sdk_python](https://github.com/bunq/sdk_python) | Official Python SDK for the bunq API |
-| [bunq/sdk_php](https://github.com/bunq/sdk_php) | Official PHP SDK |
-| [bunq/sdk_java](https://github.com/bunq/sdk_java) | Official Java SDK |
-| [bunq/sdk_csharp](https://github.com/bunq/sdk_csharp) | Official C# SDK |
+| [bunq/sdk_python](https://github.com/bunq/sdk_python) | ⚠️ Legacy Python SDK (unmaintained) |
+| [bunq/sdk_php](https://github.com/bunq/sdk_php) | ⚠️ Legacy PHP SDK (unmaintained) |
+| [bunq/sdk_java](https://github.com/bunq/sdk_java) | ⚠️ Legacy Java SDK (unmaintained) |
+| [bunq/sdk_csharp](https://github.com/bunq/sdk_csharp) | ⚠️ Legacy C# SDK (unmaintained) |
 | [bunq/tinker_php](https://github.com/bunq/tinker_php) | CLI tool to tinker with the bunq API using PHP |
-| [bunq/postman_collection](https://github.com/bunq/postman_collection) | A Postman collection to test the bunq API |
+| [bunq/postman_collection](https://github.com/bunq/postman) | A Postman collection to test the bunq API |
 
 ## 🧪 Get Started
 
